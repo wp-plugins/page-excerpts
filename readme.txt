@@ -1,10 +1,10 @@
-=== Akismet ===
+=== Page Excerpts ===
 Contributors: jbrinley
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZLZJSSEGR2MU2
 Tags: pages, excerpts, widget
 Requires at least: 3.0
 Tested up to: 3.0.1
-Stable tag: 1.0
+Stable tag: 1.0.1
 
 Adds an excerpt field to pages, and provides a widget for displaying page excerpts
 
