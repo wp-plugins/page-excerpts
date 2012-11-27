@@ -3,9 +3,10 @@
 Plugin Name: Page Excerpts
 Plugin URI: http://xplus3.net/2010/09/15/excerpts-for-wordpress-pages/
 Description: Adds an excerpt field to pages, and provides a widget for displaying page excerpts
-Author: Adelie Design
-Author URI: http://www.AdelieDesign.com/
-Version: 1.0.1
+Author: Flightless
+Contributors: jbrinley
+Author URI: http://flightless.us/
+Version: 1.0.2
 */
 
 function page_excerpts_init() {
